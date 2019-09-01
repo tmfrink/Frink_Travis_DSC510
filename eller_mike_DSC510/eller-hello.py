@@ -1,1 +1,0 @@
-print("Hello, and greetings from your instructor Mike Eller")
